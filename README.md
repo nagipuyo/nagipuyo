@@ -4,7 +4,7 @@
 - 大学で情報工学を学んでいます
 - 主にPythonとC++と、Arduinoでロボット制御を行っています
 - Reactを用いたWebページ作成とLLMを用いたチャットボットの制作の経験があります
-- 
+  
 
 ## 🔧 Skills
 - Programming: Python, C++, Java, Javascript
