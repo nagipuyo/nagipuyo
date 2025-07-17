@@ -15,6 +15,12 @@
 - Arduino＋Processingで通信・制御・可視化を実現
 - センサーデータを用いて自己位置推定を実装
 
+## My Product
+
+オンライン3D対戦ゲーム
+https://drive.google.com/drive/folders/1UYoIn9p3bl-UtEIVJdbMdv38asHFSQgQ?usp=drive_link
+
+
 ### 📊 ポートフォリオ最適化（Excel Solver）
 - 現実の株式データを用いた分散投資のシミュレーション
 - PythonとExcelを連携して分析
