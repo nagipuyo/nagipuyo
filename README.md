@@ -23,7 +23,7 @@
 https://drive.google.com/drive/folders/1UYoIn9p3bl-UtEIVJdbMdv38asHFSQgQ?usp=drive_link
 (ゲーム容量が多いので、GoogleドライブのURLを添付しております)
 
-##受賞履歴
+受賞履歴
 http://netadm.iss.tokushima-u.ac.jp/soft/2024/2nd/game.html
 
 大学主催のコンテストで総合優勝を達成し、ホームページに掲載されました。
