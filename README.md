@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 岩井 渚 | Nagisa Iwai
 
-<!--
-**nagipuyo/nagipuyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+- 大学で情報工学を学んでいます
+- 主にPythonとC++と、Arduinoでロボット制御を行っています
+- Reactを用いたWebページ作成とLLMを用いたチャットボットの制作の経験があります
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: Python, C++, Java, Javascript
+- Tools: Arduino, Git, Processing
+- Topics: 機械学習, ロボティクス, 最適化, 生成AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 My Projects
+### 🤖 Zumoロボット制御
+- Arduino＋Processingで通信・制御・可視化を実現
+- センサーデータを用いて自己位置推定を実装
+
+### 📊 ポートフォリオ最適化（Excel Solver）
+- 現実の株式データを用いた分散投資のシミュレーション
+- PythonとExcelを連携して分析
+
+## 📫 Contact
+- Email: nagich0609@gmail.com
